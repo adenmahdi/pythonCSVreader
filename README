@@ -1,0 +1,4 @@
+Author: Mahdi Aden
+
+These file are used to take specific .csv files and format them for analysis using Bayesian-Aggregated Regression Trees in R. Then
+they are added into another .csv file where they are edited further, removing certain unnecessary elements.
